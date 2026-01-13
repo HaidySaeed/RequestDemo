@@ -1,4 +1,3 @@
-## 📁 Project Structure
 
 ```text
 # SIFI Playwright Automation Framework
